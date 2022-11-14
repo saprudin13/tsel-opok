@@ -11,9 +11,9 @@ https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom
 
 Copy config dibawah ini
 👇👇👇👇👇👇👇👇
-
+'''
 vmess://eyJhZGQiOiJpZC1ieXBhc3MucmFmc3NoLm15LmlkIiwiYWlkIjoiMCIsImhvc3QiOiJ0c2VsLm1lIiwiaWQiOiJiOGNiMjQ2MS1jZTFjLTQyODEtODc1Ni01MGZhZjk4MDJlMmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd29ycnlmcmVlIiwicG9ydCI6IjgwIiwicHMiOiJvcG9rLWhlcnphIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-
+'''
 
 
 
