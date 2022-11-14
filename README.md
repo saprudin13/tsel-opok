@@ -33,4 +33,12 @@ vmess://eyJhZGQiOiJpZC1ieXBhc3MucmFmc3NoLm15LmlkIiwiYWlkIjoiMCIsImhvc3QiOiJ0c2Vs
 - Masuk Pengaturan hp lalu cari jaringan selluler
 ![IMG_20221114_164640](https://user-images.githubusercontent.com/42762412/201628689-c45bf871-491e-4cea-96eb-3b8bb789db09.jpg)
 
+- Selanjutnya Cari yang namanya Nama Titik Akses atau Access Point Name
+![IMG_20221114_164704](https://user-images.githubusercontent.com/42762412/201628844-f12bb6e1-dca7-4969-99ac-e2cd925391fd.jpg)
+
+- Lalu Buat APN Baru 
+![IMG_20221114_164739](https://user-images.githubusercontent.com/42762412/201629009-d0c4519b-d17d-48df-9971-5c480839fb24.jpg)
+
+- Isi Nama bebas lalu isi APN booster
+
 
