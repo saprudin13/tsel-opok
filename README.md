@@ -51,6 +51,6 @@ vmess://eyJhZGQiOiJpZC1ieXBhc3MucmFmc3NoLm15LmlkIiwiYWlkIjoiMCIsImhvc3QiOiJ0c2Vs
 
 
 
-#Kalau sudah jalan coba kalian tes buat buka youtube atau tiktok 
+# Kalau sudah jalan coba kalian tes buat buka youtube atau tiktok 
 
-#Semoga berhasil
+# Semoga berhasil
