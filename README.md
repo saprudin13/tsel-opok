@@ -17,3 +17,4 @@ vmess://eyJhZGQiOiJpZC1ieXBhc3MucmFmc3NoLm15LmlkIiwiYWlkIjoiMCIsImhvc3QiOiJ0c2Vs
 ## Ketiga
 - Buka Aplikasi HTTP CUSTOM
 - Centang V2Ray dan Klik ikon Puzzle pojok kanan atas
+![IMG_20221114_163613](https://user-images.githubusercontent.com/42762412/201626331-5186dd80-fbb3-46a9-9285-d64164e0916c.jpg)
