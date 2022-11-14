@@ -37,8 +37,10 @@ vmess://eyJhZGQiOiJpZC1ieXBhc3MucmFmc3NoLm15LmlkIiwiYWlkIjoiMCIsImhvc3QiOiJ0c2Vs
 ![IMG_20221114_164704](https://user-images.githubusercontent.com/42762412/201628844-f12bb6e1-dca7-4969-99ac-e2cd925391fd.jpg)
 
 - Lalu Buat APN Baru 
+Isi Nama bebas lalu isi APN booster 
+Save
 ![IMG_20221114_164739](https://user-images.githubusercontent.com/42762412/201629009-d0c4519b-d17d-48df-9971-5c480839fb24.jpg)
 
-- Isi Nama bebas lalu isi APN booster
+
 
 
