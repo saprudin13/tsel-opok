@@ -37,10 +37,17 @@ vmess://eyJhZGQiOiJpZC1ieXBhc3MucmFmc3NoLm15LmlkIiwiYWlkIjoiMCIsImhvc3QiOiJ0c2Vs
 ![IMG_20221114_164704](https://user-images.githubusercontent.com/42762412/201628844-f12bb6e1-dca7-4969-99ac-e2cd925391fd.jpg)
 
 - Lalu Buat APN Baru 
-Isi Nama bebas lalu isi APN booster 
-Save
+- Isi Nama bebas lalu isi APN booster 
+- Simpan
 ![IMG_20221114_164739](https://user-images.githubusercontent.com/42762412/201629009-d0c4519b-d17d-48df-9971-5c480839fb24.jpg)
 
+- Gunakan APN tadi
+![Screenshot_2022-11-14-16-47-54-604_com android settings](https://user-images.githubusercontent.com/42762412/201629125-4456bbc3-890c-4b75-866f-72f55d223ca9.jpg)
+
+## Terakhir
+
+- Kembali ke aplikasi HTTP CUSTOM Lalu jalankan aplikasinya dengan tekan tombol connect
+![IMG_20221114_165201](https://user-images.githubusercontent.com/42762412/201629426-65f0db51-42a3-4b21-bb3d-da43704b50aa.jpg)
 
 
 
