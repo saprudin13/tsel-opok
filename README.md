@@ -25,3 +25,4 @@ vmess://eyJhZGQiOiJpZC1ieXBhc3MucmFmc3NoLm15LmlkIiwiYWlkIjoiMCIsImhvc3QiOiJ0c2Vs
 
 
 - Klik ikon papan pojok kanan atas lalu klik kembali
+![IMG_20221114_164219](https://user-images.githubusercontent.com/42762412/201627498-17382856-2d4f-4669-8b55-5cf82f008b78.jpg)
